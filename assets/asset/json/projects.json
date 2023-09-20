@@ -1,0 +1,93 @@
+{
+    "projects":[
+        {
+            "id":1,
+            "title": "Easy Study App - Graduation Project, for facilitate the management of the educational process in universities",
+            "languages": "Flutter , dart",
+            "description": {
+                "createdAt": "15 Oct 2022",
+                "about": "The Application works as a system to facilitate the management of the educational process in universities, through the services it provides in terms of managing study courses and academic years to project management and references.\n The system is mainly two sections: \n \u2022 The Dashboard: through it, the supervisor and the teacher can modify the educational system data according to the privileges they have.\n \u2022 The android application: for student service that includes: \n   To access study resources. \n   Access to advertisements that are posted on the system. \n   Access to projects and references within the college library. \n   Download any information attached from the above in the form of a PDF file.",
+                "tools":"\u2022 postman for check APIs requests and responses.\n\u2022 vsCode for flutter code.",
+                "role": "\u2022 Design the user interface. \n\u2022 Create the mobile application for student service.",
+                "photos":[
+                    {
+                        "id":1,
+                        "URL":"asset/image/easy_study1.png"
+                    }
+                ]
+            }
+        },
+
+        {
+            "id":2,
+            "title": "News App that displays sports, health, and general news.",
+            "languages": "flutter - dart",
+            "description": {
+                "createdAt":"12 Dec 2022",
+                "about": "\u2022 News Application show news about the country specific, and get the informations from global website it provides APIs services for use by developers.\n\u2022 Fast response and suitable for all screen sizes.",
+                "tools":"\u2022postman for check APIs requests and responses.\n\u2022 vsCode for flutter code. ",
+                "role": "\u2022 Design the user interface. \n\u2022 Create the mobile application for the news.",
+                "photos":[
+                    {
+                        "id":1,
+                        "URL":"asset/image/news_app1.png"
+                    }
+                ]
+            }
+        },
+
+        {
+            "id":3,
+            "title": "Food Recipes App to create delicious recipes ",
+            "languages": "flutter , dart",
+            "description": {
+                "createdAt":"3 july 2021",
+                "about": "\u2022 Food Recipes Application is an User Interface with dummy data that is used as a template until it is connect to the APIs services.\n\u2022 Fast response and suitable for all screen sizes.",
+                "tools":"\u2022 vsCode for flutter code.",
+                "role": "\u2022 Design the user interface. \n\u2022 Create the mobile application.",
+                "photos":[
+                    {
+                        "id":1,
+                        "URL":"asset/image/food_recipes1.png"
+                    }
+                ]
+            }
+        },
+
+        {
+            "id":4,
+            "title": "Cart App ,for shop all products",
+            "languages": "flutter , dart",
+            "description": {
+                "createdAt":"4 April 2023 ",
+                "about": "\u2022 Cart Application displays products available, where you can add products to the cart and then comlete the purchase. \n  (user can Create, Read, Update and Delete the cart information by APIs services ).\n\u2022 Fast response and suitable for all screen sizes.  ",
+                "tools":"\u2022 vsCode for flutter.\n\u2022 I run the code on chrome and android mobile.",
+                "role": "\u2022 Design the user interface. \n\u2022 Create the mobile application.",
+                "photos":[
+                    {
+                        "id":1,
+                        "URL":"asset/image/cart_app.png"
+                    }
+                ]
+            }
+        },
+
+        {
+            "id":5,
+            "title": "Tic Tac Toe Game",
+            "languages": "Flutter , dart",
+            "description": {
+                "createdAt":"10 June 2023",
+                "about": "\u2022 Tic Tac Toe Game contains two choices: \n  \u2022One Player: contains two levels: \n    \u2022Easy level: the user plays against the application. the app generates random places to play.\n    \u2022Hard level: the user plays against an AI algorithm where it is difficult for the user to win.\n  \u2022Two Players: two user playing aginst each other.\n\u2022 run the app as website on chrome and apk on mobile.\n\u2022 Fast response and suitable for all screen sizes.",
+                "tools":"\u2022 vsCode for flutter.\n\u2022 I run the code on chrome and android mobile.",
+                "role": "\u2022 implement the AI algorithm code within the application.\n\u2022 Design the user interface. \n\u2022 Create the mobile application.",
+                "photos":[
+                    {
+                        "id":1,
+                        "URL":"asset/image/game.png"
+                    }
+                ]
+            }
+        }
+    ]
+}
